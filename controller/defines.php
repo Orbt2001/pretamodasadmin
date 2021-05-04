@@ -1,6 +1,6 @@
 <?
 // echo 1;
-define(BASEDIR,$_SERVER['HTTP_HOST']); //url do site
+// define(BASEDIR,$_SERVER['HTTP_HOST']); //url do site
 
-echo BASEDIR;
+// echo BASEDIR;
 ?>
